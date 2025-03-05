@@ -1,4 +1,3 @@
-# DR-NOHA2
 import random
 import math
 
